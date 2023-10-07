@@ -6,7 +6,7 @@
 
 <hr>
 
-Ficou interessado em conhecer o projeto? [clique aqui](https://devjoelfranco.github.io/landingpage-one-piece/)
+Ficou interessado em conhecer o projeto? [clique aqui](https://devjoelfranco.github.io/landing-page-one-piece/)
 
 <hr>
 
